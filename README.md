@@ -1,6 +1,6 @@
 "# secure-web-application-firewall" 
 
-FrameWork uesed is Flask
+FrameWork used is Flask
 ```pip install flask```
 
 
